@@ -1,0 +1,94 @@
+C:\Users\usuario\Downloads\senac\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\usuario\Downloads\senac\bin\Debug\net5.0\appsettings.json
+C:\Users\usuario\Downloads\senac\bin\Debug\net5.0\senac.exe
+C:\Users\usuario\Downloads\senac\bin\Debug\net5.0\senac.deps.json
+C:\Users\usuario\Downloads\senac\bin\Debug\net5.0\senac.runtimeconfig.json
+C:\Users\usuario\Downloads\senac\bin\Debug\net5.0\senac.runtimeconfig.dev.json
+C:\Users\usuario\Downloads\senac\bin\Debug\net5.0\senac.dll
+C:\Users\usuario\Downloads\senac\bin\Debug\net5.0\ref\senac.dll
+C:\Users\usuario\Downloads\senac\bin\Debug\net5.0\senac.pdb
+C:\Users\usuario\Downloads\senac\bin\Debug\net5.0\senac.Views.dll
+C:\Users\usuario\Downloads\senac\bin\Debug\net5.0\senac.Views.pdb
+C:\Users\usuario\Downloads\senac\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.csprojAssemblyReference.cache
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.AssemblyInfo.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.RazorAssemblyInfo.cache
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.RazorAssemblyInfo.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\staticwebassets\senac.StaticWebAssets.Manifest.cache
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\staticwebassets\senac.StaticWebAssets.xml
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\scopedcss\bundle\senac.styles.css
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.TagHelpers.input.cache
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.TagHelpers.output.cache
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.RazorCoreGenerate.cache
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.RazorTargetAssemblyInfo.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.Views.pdb
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.csproj.CopyComplete
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.dll
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\ref\senac.dll
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.pdb
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\senac.genruntimeconfig.cache
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\Razor\Views\PacotesTuristicos\Listar.cshtml.g.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\Razor\Views\PacotesTuristicos\Cadastrar.cshtml.g.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\Razor\Views\PacotesTuristicos\Editar.cshtml.g.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\Razor\Views\Usuario\Cadastrar.cshtml.g.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\Razor\Views\Usuario\Editar.cshtml.g.cs
+C:\Users\usuario\Downloads\senac\obj\Debug\net5.0\Razor\Views\Usuario\Lista.cshtml.g.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\bin\Debug\net5.0\appsettings.json
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\bin\Debug\net5.0\senac.exe
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\bin\Debug\net5.0\senac.deps.json
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\bin\Debug\net5.0\senac.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\bin\Debug\net5.0\senac.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\bin\Debug\net5.0\senac.dll
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\bin\Debug\net5.0\ref\senac.dll
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\bin\Debug\net5.0\senac.pdb
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\bin\Debug\net5.0\senac.Views.dll
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\bin\Debug\net5.0\senac.Views.pdb
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.RazorAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.RazorAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\staticwebassets\senac.StaticWebAssets.Manifest.cache
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\staticwebassets\senac.StaticWebAssets.xml
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\scopedcss\bundle\senac.styles.css
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.TagHelpers.input.cache
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.TagHelpers.output.cache
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.RazorCoreGenerate.cache
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\Razor\Views\PacotesTuristicos\Cadastrar.cshtml.g.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\Razor\Views\PacotesTuristicos\Editar.cshtml.g.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\Razor\Views\PacotesTuristicos\Listar.cshtml.g.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\Razor\Views\Usuario\Cadastrar.cshtml.g.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\Razor\Views\Usuario\Editar.cshtml.g.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\Razor\Views\Usuario\Lista.cshtml.g.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.RazorTargetAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.RazorTargetAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.Views.pdb
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.csproj.CopyComplete
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.dll
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\ref\senac.dll
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.pdb
+C:\Users\mathe\OneDrive\Documentos\SENAC\Projetos\UC4_Estruturar e implementar banco de dados para aplicações web\2 senac\senac\obj\Debug\net5.0\senac.genruntimeconfig.cache

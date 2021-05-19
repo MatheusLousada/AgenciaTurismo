@@ -1,0 +1,48 @@
+@model IEnumerable<PacotesTuristicos> //Referência da model que será listada
+@{
+    ViewData["Title"] = "Lista";
+}
+
+<h2 style="margin-top: 50px;">Listagem de Pacotes Turísticos</h2><br>
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Origem</th>
+            <th>Destino</th>
+            <th>Atrativos</th>
+            <th>Saída</th>
+            <th>Retorno</th>
+            <th>Usuário</th>
+            <th>Operações</th>
+        </tr>
+    </thead>
+
+        @foreach (PacotesTuristicos u in Model) //Para pegar as informações do banco de dados, criando um objeto chamado "u" do tipo "PacoresTuristicos" que será alimentado pela Model
+        {
+            <tr>
+                <td>@u.Id</td>
+                <td>@u.Nome</td>
+                <td>@u.Origem</td>
+                <td>@u.Destino</td>
+                <td>@u.Atrativos</td>
+                <td>@u.Saida.ToShortDateString()</td>
+                <td>@u.Retorno.ToShortDateString()</td>
+                <td>@u.Usuario</td>  
+                <td> 
+                    <a href="/PacotesTuristicos/Excluir?Id=@u.Id" onclick="return confirm('Deseja excluir?');">Remover</a>
+
+                    <a href="/PacotesTuristicos/Editar?Id=@u.Id" onclick="return confirm('Deseja alterar?');">Alterar</a>
+                </td>
+            </tr> 
+        }
+        <tbody>
+
+        </tbody>
+</table> 
+
+<p>
+    @ViewBag.Mensagem
+</p>

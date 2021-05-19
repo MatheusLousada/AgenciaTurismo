@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XlIZlCpb2zAEox5W7Y+P7a4Q5l1+euOwjWCBz0kqBqsQVulB/FL2azq1U6C1NdHBeKz8nz+KR4M+h6ve9zJk3A==",
+  "dgSpecHash": "WZ3hSUyFmalvQbQd3aNtF/ziSK6Q/YbH8wyR/5DaK0vynNw3ZAHV0GTO1Hb70MO/J+xlTvf4hplkanWHn/NkEA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\AgenciaTurismo\\AgenciaTurismo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\mysqlconnector\\1.3.8\\mysqlconnector.1.3.8.nupkg.sha512"
+  ],
   "logs": []
 }

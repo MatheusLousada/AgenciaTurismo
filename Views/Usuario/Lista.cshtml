@@ -1,0 +1,42 @@
+@model IEnumerable<Usuario> //Referência da model que será listada
+@{
+    ViewData["Title"] = "Lista";
+}
+
+<h2 style="margin-top: 50px;">Listagem de Usuários</h2><br>
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Login</th>
+            <th>Senha</th>
+            <th>Data de Nascimento</th>
+            <th>Operações</th>
+        </tr>
+    </thead>
+
+        @foreach (Usuario u in Model) //Para pegar as informações do banco de dados, criando um objeto chamado "u" do tipo "PacoresTuristicos" que será alimentado pela Model
+        {
+            <tr>
+                <td>@u.Id</td>
+                <td>@u.Nome</td>
+                <td>@u.Login</td>
+                <td>@u.Senha</td>
+                <td>@u.DataNascimento.ToShortDateString()</td>
+                <td> 
+                    <a href="/Usuario/Excluir?Id=@u.Id" onclick="return confirm('Deseja excluir?');">Remover</a>
+
+                    <a href="/Usuario/Editar?Id=@u.Id" onclick="return confirm('Deseja alterar?');">Alterar</a>
+                </td>
+            </tr> 
+        }
+        <tbody>
+
+        </tbody>
+</table> 
+
+<p>
+    @ViewBag.Mensagem
+</p>

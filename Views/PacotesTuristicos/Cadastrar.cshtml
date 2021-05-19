@@ -1,0 +1,55 @@
+@model PacotesTuristicos
+@{
+    ViewData["Title"] = "Cadastro";
+}
+
+<style>
+
+</style>
+
+<form method="POST" asp-action="Cadastrar" style="margin-top: 60px; height:550px">
+
+       <div class="form-group">
+            <label asp-for="Nome">Nome:</label>
+            <input type="text" asp-for="Nome" class="form-control" placeholder="Digite seu nome" required>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Origem">Origem:</label>
+            <input  asp-for="Origem" class="form-control" placeholder="Digite a origem" required>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Destino">Destino:</label>
+            <input asp-for="Destino" class="form-control" placeholder="Digite o destino" required>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Atrativos">Atrativos:</label>
+            <input asp-for="Atrativos" class="form-control" placeholder="Digite os atrativos" required>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Saida">Saída:</label><br>
+            <input asp-for="Saida" type="date" required>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Retorno">Retorno:</label><br>
+            <input asp-for="Retorno" type="date" required>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Usuario">Usuário:</label>
+            <input asp-for="Usuario" class="form-control" placeholder="Digite o usuário" required>
+        </div>
+
+        <div style="margin-left: 500px; margin-top: 60px">
+            <input type="submit" value="Cadastrar" class="btn btn-warning btn-lg">
+        </div>
+
+</form>
+
+<p style="margin-left: 440px; margin-top:150px"><strong>  @ViewBag.Mensagem </strong>  </p>
+
+

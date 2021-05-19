@@ -20,7 +20,13 @@ namespace AgenciaTurismo.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            PacotesTuristicosRepository pt = new PacotesTuristicosRepository();
+            //Instacia um objeto da Model que conecta com o banco de dados
+
+            List<PacotesTuristicos> Listagem = pt.Listar();
+            //Chama o método pretendido no caso "Listar()"
+
+            return View(Listagem);
         }
 
         public IActionResult Privacy()

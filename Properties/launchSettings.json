@@ -3,7 +3,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:8656",
+      "applicationUrl": "http://localhost:52797",
       "sslPort": 0
     }
   },
@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "AgenciaTurismo": {
+    "senac": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
